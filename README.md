@@ -63,12 +63,13 @@ It helps identify impacted areas, assess damage severity, and provide insights f
 └── requirements.txt
 
 
+<img width="886" height="700" alt="image" src="https://github.com/user-attachments/assets/4331cf78-2640-4ed5-a58e-c2e35f78ef44" />
 
+<img width="856" height="700" alt="image" src="https://github.com/user-attachments/assets/3b72ad3a-6197-46d6-9db0-961b68778147" />
 
+<img width="882" height="726" alt="image" src="https://github.com/user-attachments/assets/4273f3e2-c5ad-45c8-96a6-919fd8bf4e41" />
 
-<img width="567" height="455" alt="download" src="https://github.com/user-attachments/assets/ab9ad55a-339b-459f-ae53-1b5015ae454b" />
-<img width="567" height="455" alt="download" src="https://github.com/user-attachments/assets/935d983d-6377-4e0c-aa3a-3b7e294f5f32" />
-<img width="591" height="491" alt="download" src="https://github.com/user-attachments/assets/874d0603-45a7-4949-b886-5a35c80c4b19" />
+<img width="937" height="710" alt="image" src="https://github.com/user-attachments/assets/63105ebc-9a23-4a84-bc39-45a370d354be" />
 
-<img width="580" height="455" alt="download" src="https://github.com/user-attachments/assets/900d3f21-fdbc-4ca1-ae16-3129bcf42a60" />
-<img width="589" height="455" alt="download" src="https://github.com/user-attachments/assets/0b19f6b9-d7d8-4d8e-b7dd-e341dd4d95e2" />
+<img width="918" height="694" alt="image" src="https://github.com/user-attachments/assets/601bc2b2-0400-4f10-bf74-6fd95c593ccc" />
+
