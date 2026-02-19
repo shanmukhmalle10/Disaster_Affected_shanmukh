@@ -2,7 +2,7 @@
 
 # 📌 Project Title  
 **Disaster Affected Region Tracker Analysis**  
-*(Replace with your project name)*  
+
 
 ---
 
@@ -27,12 +27,12 @@ It helps identify impacted areas, assess damage severity, and provide insights f
 - Python  
 
 **Database:**  
-- MySQL / PostgreSQL  
+- MySQL   
 
 **Libraries & Tools:**  
 - Pandas  
 - NumPy  
-- Matplotlib / Seaborn / Power BI / Tableau  
+- Matplotlib
 - SQL  
 
 **Version Control:**  
