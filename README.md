@@ -63,7 +63,8 @@ It helps identify impacted areas, assess damage severity, and provide insights f
 └── requirements.txt
 
 
-<img width="886" height="700" alt="image" src="https://github.com/user-attachments/assets/4331cf78-2640-4ed5-a58e-c2e35f78ef44" />
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/6bd011f2-9065-41a2-8790-7cd377fb1ea2" />
+
 
 <img width="856" height="700" alt="image" src="https://github.com/user-attachments/assets/3b72ad3a-6197-46d6-9db0-961b68778147" />
 
