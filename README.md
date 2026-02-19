@@ -71,3 +71,4 @@ Region-wise disaster frequency
 <img width="1152" height="555" alt="Screenshot 2026-02-19 201954" src="https://github.com/user-attachments/assets/46d8e01e-0cbc-43d2-8dac-4bebdddc3c01" />
 
 
+
