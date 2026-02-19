@@ -62,6 +62,13 @@ It helps identify impacted areas, assess damage severity, and provide insights f
 ├── README.md
 └── requirements.txt
 
+Dashboard Problem Statements(Matplotlib):
+
+1. Identify top 5 regions by total affected population.
+2. Compare disaster severity distribution by disaster type.
+3. Trend of disasters over time (monthly).
+4. Economic loss vs affected population scatter plot.
+5. Region-wise disaster frequency heatmap.
 
 <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/6bd011f2-9065-41a2-8790-7cd377fb1ea2" />
 
