@@ -39,7 +39,6 @@ It helps identify impacted areas, assess damage severity, and provide insights f
 - Git & GitHub  
 
 
-
 Dashboard Problem Statements(Matplotlib):
 
 1. Identify top 5 regions by total affected population.
@@ -47,6 +46,8 @@ Dashboard Problem Statements(Matplotlib):
 3. Trend of disasters over time (monthly).
 4. Economic loss vs affected population scatter plot.
 5. Region-wise disaster frequency heatmap.
+
+## 🖼️ Visualizations
 
 outputs:
 
