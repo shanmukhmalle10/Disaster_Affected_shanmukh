@@ -75,7 +75,7 @@ It helps identify impacted areas, assess damage severity, and provide insights f
 <img width="580" height="455" alt="download" src="https://github.com/user-attachments/assets/f4daa2c8-346c-4c1d-815c-5f04c1f1fdb5" />
 
 
-<img width="589" height="455" alt="download" src="https://github.com/user-attachments/assets/8a7fbc6f-5785-4eee-a83a-6fe75d6431ee" />
+<img width="589" height="455" alt="download" src="https://github.com/user-attachments/assets/8a7fbc6f-5785-4eee-a83a-6fe75d6431ee" /> 
 
 
 
